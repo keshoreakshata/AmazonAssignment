@@ -45,5 +45,3 @@ It demonstrates practical automation testing skills such as element handling, dy
 
 ---
 
-## 📂 Project Structure
-
